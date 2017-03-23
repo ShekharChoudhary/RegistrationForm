@@ -5,21 +5,21 @@
 	<session-config>
 	    <session-timeout>10</session-timeout>
 	</session-config>
-
+<!-- 
 	<filter>
 	    <filter-name>ntlmFilter</filter-name>
 	    <filter-class>
 	        com.tieto.edc.configuration.NTLMUserFilter
 	    </filter-class>
 	</filter>
-	
+	 -->
 	<!-- Filter mapping configuration   -->
-	
+	<!-- 
 	<filter-mapping>
 	    <filter-name>ntlmFilter</filter-name>
 	    <url-pattern>/*</url-pattern>
 	</filter-mapping>  
-	
+	 -->
 	<welcome-file-list>
 		<welcome-file>index.html</welcome-file>
 		<welcome-file>index.htm</welcome-file>
