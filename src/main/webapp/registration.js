@@ -3,5 +3,5 @@ function submitData() {
 	var secondName = document.getElementById('secondName').value;
 	var phoneNumber = document.getElementById('phoneNumber').value;
 	var address = document.getElementById('address').value;
-	alert(firstName+" "+secondName+" "+phoneNumber+address);
+	alert(firstName+" "+secondName+" "+ phoneNumber+address);
 }
