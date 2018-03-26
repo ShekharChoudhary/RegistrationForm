@@ -1,4 +1,4 @@
-package com.registration.test.service;
+package com.shekhar.registration.service;
 
 import java.util.ArrayList;
 import java.util.List;
